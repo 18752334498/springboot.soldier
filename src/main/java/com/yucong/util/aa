@@ -1,0 +1,99 @@
+INSERT into vwt_dictionary VALUES('151', '370191', '行政区划', '济南高新技术产业开发区', '3701', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370192', '行政区划', '济南南部山区', '3701', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370193', '行政区划', '济南新旧动能转换先行区', '3701', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370194', '行政区划', '济南莱芜高新技术产业开发区', '3701', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370291', '行政区划', '青岛国家高新技术产业开发区', '3702', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370390', '行政区划', '淄博高新技术产业开发区', '3703', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370391', '行政区划', '淄博文昌湖省级旅游度假区', '3703', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370392', '行政区划', '淄博经济开发区', '3703', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370499', '行政区划', '枣庄国家高新产业开发区', '3704', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370590', '行政区划', '东营经济技术开发区', '3705', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370591', '行政区划', '东营港经济开发区', '3705', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370592', '行政区划', '黄河三角洲农业高新技术产业示范区', '3705', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370593', '行政区划', '中国石化集团胜利石油管理局有限公司', '3705', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370594', '行政区划', '中石化胜利石油工程有限公司', '3705', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370595', '行政区划', '中石化石油工程地球物理有限公司胜利分公司', '3705', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370596', '行政区划', '中石化石油建设有限公司', '3705', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370691', '行政区划', '昆嵛山国家级自然保护区', '3706', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370692', '行政区划', '烟台高新区技术产业开发区', '3706', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370693', '行政区划', '烟台经济技术开发区', '3706', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370791', '行政区划', '潍坊国家高新技术产业开发区', '3707', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370792', '行政区划', '潍坊市滨海经济开发区', '3707', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370793', '行政区划', '潍坊市峡山生态区', '3707', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370794', '行政区划', '潍坊市经济开发区', '3707', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370891', '行政区划', '国家济宁高新技术产业开发区', '3708', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370892', '行政区划', '济宁北湖省级旅游度假区', '3708', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370893', '行政区划', '济宁经济技术开发区', '3708', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370990', '行政区划', '泰安高新技术开发区', '3709', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '370991', '行政区划', '泰安市泰山风景名胜区', '3709', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '371091', '行政区划', '威海临港经济技术开发区', '3710', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '371092', '行政区划', '威海火炬高技术产业开发区', '3710', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '371093', '行政区划', '威海经济技术开发区', '3710', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '371094', '行政区划', '威海南海新区', '3710', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '371191', '行政区划', '日照经济技术开发区', '3711', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '371192', '行政区划', '日照山海天旅游度假区', '3711', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '371391', '行政区划', '临沂市高新技术产业开发区', '3713', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '371392', '行政区划', '临沂市经济技术开发区', '3713', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '371393', '行政区划', '临沂市临港经济开发区', '3713', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '371394', '行政区划', '临沂市蒙山旅游区', '3713', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '371498', '行政区划', '德州运河经济开发区', '3714', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '371499', '行政区划', '德州经济技术开发区', '3714', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '371592', '行政区划', '聊城市江北水城旅游度假区', '3715', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '371593', '行政区划', '聊城市高新技术产业开发区', '3715', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '371599', '行政区划', '聊城市经济技术开发区', '3715', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '371697', '行政区划', '山东省滨州市北海经济开发区', '3716', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '371698', '行政区划', '山东省滨州市高新技术开发区', '3716', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '371699', '行政区划', '山东省滨州经济技术开发区', '3716', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '371790', '行政区划', '菏泽市经济开发区', '3717', 'soldier_info');
+INSERT into vwt_dictionary VALUES('151', '371791', '行政区划', '菏泽高新技术产业开发区', '3717', 'soldier_info');
+
+
+
+济南高新技术产业开发区							370191
+济南南部山区									370192
+济南新旧动能转换先行区							370193
+济南莱芜高新技术产业开发区						370194
+青岛国家高新技术产业开发区						370291
+淄博高新技术产业开发区							370390
+淄博文昌湖省级旅游度假区						370391
+淄博经济开发区								370392
+枣庄国家高新产业开发区							370499
+东营经济技术开发区								370590
+东营港经济开发区								370591
+黄河三角洲农业高新技术产业示范区					370592
+中国石化集团胜利石油管理局有限公司				370593
+中石化胜利石油工程有限公司						370594
+中石化石油工程地球物理有限公司胜利分公司			370595
+中石化石油建设有限公司							370596
+昆嵛山国家级自然保护区							370691
+烟台高新区技术产业开发区						370692
+烟台经济技术开发区								370693
+潍坊国家高新技术产业开发区						370791
+潍坊市滨海经济开发区							370792
+潍坊市峡山生态区								370793
+潍坊市经济开发区								370794
+国家济宁高新技术产业开发区						370891
+济宁北湖省级旅游度假区							370892
+济宁经济技术开发区								370893
+泰安高新技术开发区								370990
+泰安市泰山风景名胜区							370991
+威海临港经济技术开发区							371091
+威海火炬高技术产业开发区						371092
+威海经济技术开发区								371093
+威海南海新区									371094
+日照经济技术开发区								371191
+日照山海天旅游度假区							371192
+临沂市高新技术产业开发区						371391
+临沂市经济技术开发区							371392
+临沂市临港经济开发区							371393
+临沂市蒙山旅游区								371394
+德州运河经济开发区								371498
+德州经济技术开发区								371499
+聊城市江北水城旅游度假区						371592
+聊城市高新技术产业开发区						371593
+聊城市经济技术开发区							371599
+山东省滨州市北海经济开发区						371697
+山东省滨州市高新技术开发区						371698
+山东省滨州经济技术开发区						371699
+菏泽市经济开发区								371790
+菏泽高新技术产业开发区							371791
