@@ -15,14 +15,18 @@ public class MultiThreadGetProperty {
         ExecutorService pool = Executors.newFixedThreadPool(10);
         List<Callable<List<String>>> tasks = new ArrayList<>();
         List<String> list = new ArrayList<>();
-        list.add("ArmyAssignJobVO.java");
+        list.add("AssignJobVO.java");
+        list.add("HuntJobVO.java");
+        list.add("CommonVO.java");
+
         list.add("BodyStateVO.java");
-        list.add("DisabledVO.java");
         list.add("EducationVO.java");
         list.add("FamilyVO.java");
+        list.add("LifeStateVO.java");
+
+        list.add("DisabledVO.java");
         list.add("HonorFamilyVO.java");
         list.add("HonorSoldierVO.java");
-        list.add("LifeStateVO.java");
         list.add("RestoreCadreVO.java");
         list.add("RestoreSoldierVO.java");
         list.add("RetireCadreVO.java");
@@ -30,6 +34,9 @@ public class MultiThreadGetProperty {
         list.add("RetireWorkerVO.java");
         list.add("SoldierVO.java");
         list.add("ThreeRedVO.java");
+
+
+        // list.add("child\\FollowFamily.java");
 
         for (String string : list) {
             BufferBean bean = new BufferBean(string);
